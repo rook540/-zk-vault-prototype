@@ -23,5 +23,4 @@ A zero-knowledge vault system that encrypts and seals user data with one-time ke
 ---
 
 ## Contact
-
-Built by Rook — reach me on [GitHub](https://github.com/rook540) or [LinkedIn](https://linkedin.com/in/rook540)
+      wildlifehabitat540@gmail.com
